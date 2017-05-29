@@ -107,6 +107,8 @@ public class Menu extends javax.swing.JFrame {
         // TODO add your handling code here:
         
         new TelaCadastroCategoria().setVisible(true);
+        
+        
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     /**
